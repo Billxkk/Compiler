@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507647380 source:c:\users\administrator\desktop\code\compiler\testfeature\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+

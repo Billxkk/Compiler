@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1507551960 source:c:\users\administrator\desktop\编译原理\test\test\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+
+1507626614 source:c:\users\administrator\desktop\code\compiler\test\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<string.h>
+
+1509261101 source:c:\users\administrator\desktop\编译原理\compiler\compiler1\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<string.h>
+
